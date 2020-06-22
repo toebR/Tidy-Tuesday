@@ -81,4 +81,16 @@ census_plot
 ggsave(census_plot, filename = "census.png", width = 15, height = 15, units = "cm")
 
 
+# census gif --------------------------------------------------------------
+census_plot +
+  transition_reveal(year) -> ani1
+
+animate(ani1,nframes = 20, fps = 3)
+anim_save(animation = ani1, filename = "american_slavery.gif",
+          nframes = 20, fps = 3,
+          width = 15, height = 15, units = "cm", res = 300,
+          end_pause = 5)
+
+
+
 
