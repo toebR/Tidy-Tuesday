@@ -80,19 +80,5 @@ ggplot(regions_long, aes(x = year, y = value, color = category)) +
 census_plot
 ggsave(census_plot, filename = "census.png", width = 15, height = 15, units = "cm")
 
-c("#2E2B42", "#8EA324", "#FFFFFF")
-
-
-#now look at the slave routes, which ships transported the most slaves, which harbor originated the most and which harbor arrived the most.
-slave_routes
-
-coords = geocode(slave_routes$port_origin)
-
-pd = slave_routes %>% gather_set_data(3:7)
-view(pd)
-
-ggplot(head(pd), aes(x = x, id = id, split = y, value = n_slaves_arrived)) +
-  geom_parallel_sets()
-#then look at the african names, i.e. slaves freed during transport
 
 
