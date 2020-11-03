@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 720.00003 634.00001"
+   version="1.1"
+   id="svg294"
+   sodipodi:docname="plot.svg"
+   width="720"
+   height="634"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="C:\Users\tobia\Desktop\ownprojects\dataviz\IKEA\plot.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <metadata
+     id="metadata298">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     id="namedview296"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.50976312"
+     inkscape:cx="253.67011"
+     inkscape:cy="390.14993"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg294">
+    <sodipodi:guide
+       position="11.097026,618.03268"
+       orientation="1,0"
+       id="guide1129" />
+    <sodipodi:guide
+       position="207.4493,6.2574474"
+       orientation="0,-1"
+       id="guide1131" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2"><![CDATA[
+    line, polyline, polygon, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+  </defs>
+  <rect
+     x="2.3049681"
+     y="0.99797416"
+     width="719.25409"
+     height="635.5639"
+     style="fill:#ffda1a;stroke:#ffda1a;stroke-width:1.14135"
+     id="rect8" />
+  <defs
+     id="defs13">
+    <clipPath
+       id="cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=">
+      <rect
+         x="171.56"
+         y="39.029999"
+         width="531.63"
+         height="418.37"
+         id="rect10" />
+    </clipPath>
+  </defs>
+  <line
+     x1="197.59"
+     y1="442.81"
+     x2="315.35999"
+     y2="442.81"
+     style="stroke:#a7c3ea;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line29"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="197.08"
+     y1="418.48001"
+     x2="679.02002"
+     y2="418.48001"
+     style="stroke:#735ff8;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line31"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="195.72"
+     y1="394.16"
+     x2="414.22"
+     y2="394.16"
+     style="stroke:#0000a3;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line33"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="195.72"
+     y1="369.84"
+     x2="522.40997"
+     y2="369.84"
+     style="stroke:#3420fe;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line35"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="202.88"
+     y1="345.51001"
+     x2="265.42999"
+     y2="345.51001"
+     style="stroke:#abd0e8;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line37"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="196.14999"
+     y1="321.19"
+     x2="546.87"
+     y2="321.19"
+     style="stroke:#0000bc;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line39"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="198.03999"
+     y1="296.85999"
+     x2="290.39001"
+     y2="296.85999"
+     style="stroke:#9393f2;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line41"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="195.82001"
+     y1="272.54001"
+     x2="273.5"
+     y2="272.54001"
+     style="stroke:#9494f2;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line43"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="195.82001"
+     y1="248.22"
+     x2="273.5"
+     y2="248.22"
+     style="stroke:#9ba4ef;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line45"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="196.02"
+     y1="223.89"
+     x2="455.01999"
+     y2="223.89"
+     style="stroke:#6f5af9;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line47"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="205.10001"
+     y1="199.57001"
+     x2="316.47"
+     y2="199.57001"
+     style="stroke:#add8e6;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line49"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="210.45"
+     y1="175.24001"
+     x2="301.48999"
+     y2="175.24001"
+     style="stroke:#abd2e7;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line51"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="196.92999"
+     y1="150.92"
+     x2="679.02002"
+     y2="150.92"
+     style="stroke:#0000d1;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line53"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="196.02"
+     y1="126.6"
+     x2="546.87"
+     y2="126.6"
+     style="stroke:#00008b;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line55"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="197.53999"
+     y1="102.27"
+     x2="311.32999"
+     y2="102.27"
+     style="stroke:#abcfe8;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line57"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="195.72"
+     y1="77.949997"
+     x2="410.44"
+     y2="77.949997"
+     style="stroke:#7c6bf7;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line59"
+     transform="translate(7.8467823,29.425432)" />
+  <line
+     x1="197.84"
+     y1="53.630001"
+     x2="618.23999"
+     y2="53.630001"
+     style="stroke:#644dfa;stroke-width:1.07;stroke-linecap:butt"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="line61"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="321.92,449.36 321.92,436.25 308.81,436.25 308.81,449.36 "
+     style="fill:#a7c3ea;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon63"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="690.75,430.22 690.75,406.75 667.28,406.75 667.28,430.22 "
+     style="fill:#735ff8;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon65"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="422.58,402.52 422.58,385.8 405.86,385.8 405.86,402.52 "
+     style="fill:#0000a3;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon67"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="532.31,379.74 532.31,359.93 512.51,359.93 512.51,379.74 "
+     style="fill:#3420fe;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon69"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="270.77,350.85 270.77,340.17 260.09,340.17 260.09,350.85 "
+     style="fill:#abd0e8;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon71"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="557.08,331.4 557.08,310.98 536.66,310.98 536.66,331.4 "
+     style="fill:#0000bc;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon73"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="296.38,302.85 296.38,290.88 284.4,290.88 284.4,302.85 "
+     style="fill:#9393f2;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon75"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="279.06,278.1 279.06,266.98 267.93,266.98 267.93,278.1 "
+     style="fill:#9494f2;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon77"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="279.06,253.78 279.06,242.65 267.93,242.65 267.93,253.78 "
+     style="fill:#9ba4ef;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon79"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="464,232.87 464,214.92 446.05,214.92 446.05,232.87 "
+     style="fill:#6f5af9;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon81"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="323.05,206.15 323.05,192.99 309.89,192.99 309.89,206.15 "
+     style="fill:#add8e6;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon83"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="307.74,181.49 307.74,169 295.24,169 295.24,181.49 "
+     style="fill:#abd2e7;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon85"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="690.75,162.66 690.75,139.19 667.28,139.19 667.28,162.66 "
+     style="fill:#0000d1;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon87"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="557.08,136.81 557.08,116.38 536.66,116.38 536.66,136.81 "
+     style="fill:#00008b;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon89"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="317.79,108.74 317.79,95.81 304.86,95.81 304.86,108.74 "
+     style="fill:#abcfe8;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon91"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="418.73,86.25 418.73,69.65 402.14,69.65 402.14,86.25 "
+     style="fill:#7c6bf7;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon93"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="629.3,64.69 629.3,42.56 607.18,42.56 607.18,64.69 "
+     style="fill:#644dfa;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon95"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="199.68,444.89 199.68,440.72 195.5,440.72 195.5,444.89 "
+     style="fill:#a7c3ea;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon97"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="199.08,420.48 199.08,416.48 195.08,416.48 195.08,420.48 "
+     style="fill:#735ff8;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon99"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="197.33,395.76 197.33,392.56 194.12,392.56 194.12,395.76 "
+     style="fill:#0000a3;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon101"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="197.33,371.44 197.33,368.23 194.12,368.23 194.12,371.44 "
+     style="fill:#3420fe;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon103"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="205.57,348.2 205.57,342.82 200.19,342.82 200.19,348.2 "
+     style="fill:#abd0e8;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon105"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="197.92,322.96 197.92,319.41 194.37,319.41 194.37,322.96 "
+     style="fill:#0000bc;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon107"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="200.2,299.02 200.2,294.71 195.88,294.71 195.88,299.02 "
+     style="fill:#9393f2;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon109"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="197.48,274.2 197.48,270.88 194.17,270.88 194.17,274.2 "
+     style="fill:#9494f2;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon111"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="197.48,249.87 197.48,246.56 194.17,246.56 194.17,249.87 "
+     style="fill:#9ba4ef;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon113"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="197.76,225.63 197.76,222.16 194.29,222.16 194.29,225.63 "
+     style="fill:#6f5af9;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon115"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="207.97,202.44 207.97,196.7 202.23,196.7 202.23,202.44 "
+     style="fill:#add8e6;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon117"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="213.68,178.48 213.68,172.01 207.22,172.01 207.22,178.48 "
+     style="fill:#abd2e7;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon119"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="198.9,152.89 198.9,148.95 194.96,148.95 194.96,152.89 "
+     style="fill:#0000d1;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon121"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="197.76,128.33 197.76,124.86 194.29,124.86 194.29,128.33 "
+     style="fill:#00008b;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon123"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="199.62,104.35 199.62,100.19 195.46,100.19 195.46,104.35 "
+     style="fill:#abcfe8;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon125"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="197.33,79.55 197.33,76.35 194.12,76.35 194.12,79.55 "
+     style="fill:#7c6bf7;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon127"
+     transform="translate(7.8467823,29.425432)" />
+  <polygon
+     points="199.97,55.75 199.97,51.5 195.71,51.5 195.71,55.75 "
+     style="fill:#644dfa;stroke:none;stroke-width:0.71"
+     clip-path="url(#cpMTcxLjU2fDcwMy4xOHw0NTcuNDB8MzkuMDM=)"
+     id="polygon129"
+     transform="translate(7.8467823,29.425432)" />
+  <defs
+     id="defs134">
+    <clipPath
+       id="cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=">
+      <rect
+         x="0"
+         y="0"
+         width="708.65997"
+         height="566.92999"
+         id="rect131" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g138"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="110.02"
+       y="446.01001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="56.599998"
+       lengthAdjust="spacingAndGlyphs"
+       id="text136">Bar furniture</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g142"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="145.28"
+       y="421.67999"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="21.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text140">Beds</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g146"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="46.66"
+       y="397.35999"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="119.97"
+       lengthAdjust="spacingAndGlyphs"
+       id="text144">Bookcases &amp; shelving units</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g150"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="70.279999"
+       y="373.03"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="96.339996"
+       lengthAdjust="spacingAndGlyphs"
+       id="text148">Cabinets &amp; cupboards</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g154"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="105.33"
+       y="348.70999"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="61.290001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text152">Café furniture</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g158"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="138.87"
+       y="324.39001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="27.75"
+       lengthAdjust="spacingAndGlyphs"
+       id="text156">Chairs</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g162"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="19.1"
+       y="300.06"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="147.52"
+       lengthAdjust="spacingAndGlyphs"
+       id="text160">Chests of drawers &amp; drawer units</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g166"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="81.559998"
+       y="275.73999"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="85.07"
+       lengthAdjust="spacingAndGlyphs"
+       id="text164">Children's furniture</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g170"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="90.400002"
+       y="251.42"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="76.230003"
+       lengthAdjust="spacingAndGlyphs"
+       id="text168">Nursery furniture</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g174"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="89.209999"
+       y="227.09"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="77.410004"
+       lengthAdjust="spacingAndGlyphs"
+       id="text172">Outdoor furniture</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g178"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="103.59"
+       y="202.77"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="63.040001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text176">Room dividers</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g182"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="5.48"
+       y="178.44"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="161.14999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text180">Sideboards, buffets &amp; console tables</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g186"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="85.93"
+       y="154.12"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="80.699997"
+       lengthAdjust="spacingAndGlyphs"
+       id="text184">Sofas &amp; armchairs</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g190"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="100.51"
+       y="129.8"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="66.120003"
+       lengthAdjust="spacingAndGlyphs"
+       id="text188">Tables &amp; desks</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g194"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="132.24001"
+       y="105.47"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="34.380001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text192">Trolleys</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g198"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="74.089996"
+       y="81.150002"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="92.529999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text196">TV &amp; media furniture</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g202"
+     transform="translate(7.8467823,29.425432)">
+    <text
+       x="118.99"
+       y="56.82"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="47.630001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text200">Wardrobes</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g206"
+     transform="translate(7.8467823,25.425432)">
+    <text
+       x="192.77"
+       y="468.73001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="5.5900002"
+       lengthAdjust="spacingAndGlyphs"
+       id="text204">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g210"
+     transform="translate(7.8467823,25.425432)">
+    <text
+       x="280.57999"
+       y="468.73001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="16.780001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text208">500</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g214"
+     transform="translate(7.8467823,25.425432)">
+    <text
+       x="371.19"
+       y="468.73001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="22.379999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text212">1000</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g218"
+     transform="translate(7.8467823,25.425432)">
+    <text
+       x="464.59"
+       y="468.73001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="22.379999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text216">1500</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g222"
+     transform="translate(7.8467823,25.425432)">
+    <text
+       x="557.98999"
+       y="468.73001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="22.379999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text220">2000</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g226"
+     transform="translate(7.8467823,25.425432)">
+    <text
+       x="651.40002"
+       y="468.73001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="22.379999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text224">2500</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g230"
+     transform="translate(7.8467823,31.425432)">
+    <text
+       x="386.60001"
+       y="481.29001"
+       style="font-size:11px;font-family:Verdana;fill:#04348c"
+       textLength="101.54"
+       lengthAdjust="spacingAndGlyphs"
+       id="text228">*Price Range [US$]</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g234"
+     transform="matrix(0.81174521,0,0,0.81174521,-248.41033,226.91352)" />
+  <rect
+     x="314.63"
+     y="511.88"
+     width="51.43"
+     height="7.1999998"
+     style="fill:#a5bdeb;stroke:none;stroke-width:0.75"
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="rect236"
+     transform="translate(-62.15322,35.425432)" />
+  <rect
+     x="366.06"
+     y="511.88"
+     width="51.43"
+     height="7.1999998"
+     style="fill:#8b84f4;stroke:none;stroke-width:0.75"
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="rect238"
+     transform="translate(-62.15322,35.425432)" />
+  <rect
+     x="417.48999"
+     y="511.88"
+     width="51.43"
+     height="7.1999998"
+     style="fill:#5b43fb;stroke:none;stroke-width:0.75"
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="rect240"
+     transform="translate(-62.15322,35.425432)" />
+  <rect
+     x="468.92001"
+     y="511.88"
+     width="51.43"
+     height="7.1999998"
+     style="fill:#0000f0;stroke:none;stroke-width:0.75"
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="rect242"
+     transform="translate(-62.15322,35.425432)" />
+  <rect
+     x="520.34998"
+     y="511.88"
+     width="51.43"
+     height="7.1999998"
+     style="fill:#0000c8;stroke:none;stroke-width:0.75"
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="rect244"
+     transform="translate(-62.15322,35.425432)" />
+  <rect
+     x="571.77002"
+     y="511.88"
+     width="51.43"
+     height="7.1999998"
+     style="fill:#0000a2;stroke:none;stroke-width:0.75"
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="rect246"
+     transform="translate(-62.15322,35.425432)" />
+  <rect
+     x="623.20001"
+     y="511.88"
+     width="51.43"
+     height="7.1999998"
+     style="fill:#00008d;stroke:none;stroke-width:0.75"
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="rect248"
+     transform="translate(-62.15322,35.425432)" />
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g252"
+     transform="translate(-62.15322,35.425432)">
+    <text
+       x="357.67001"
+       y="530.95001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="16.780001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text250">100</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g256"
+     transform="translate(-62.15322,35.425432)">
+    <text
+       x="409.10001"
+       y="530.95001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="16.780001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text254">200</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g260"
+     transform="translate(-62.15322,35.425432)">
+    <text
+       x="460.51999"
+       y="530.95001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="16.780001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text258">300</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g264"
+     transform="translate(-62.15322,35.425432)">
+    <text
+       x="511.95001"
+       y="530.95001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="16.780001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text262">400</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g268"
+     transform="translate(-62.15322,35.425432)">
+    <text
+       x="563.38"
+       y="530.95001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="16.780001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text266">500</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g272"
+     transform="translate(-62.15322,35.425432)">
+    <text
+       x="614.81"
+       y="530.95001"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="16.780001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text270">600</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g276"
+     transform="translate(181.84678,17.425432)">
+    <text
+       x="200.11"
+       y="526.32001"
+       style="font-size:11px;font-family:Verdana;fill:#04348c"
+       textLength="109.04"
+       lengthAdjust="spacingAndGlyphs"
+       id="text274">Amount of Products</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g280"
+     transform="matrix(1.0842353,0,0,1.0842353,-175.92481,17.789169)">
+    <text
+       x="171.56"
+       y="31.280001"
+       style="font-size:11px;font-family:Verdana;fill:#04348c"
+       textLength="342.92999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text278">Price Ranges and Number of Individual Products per Category</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g288"
+     transform="translate(7.846782,77.425432)">
+    <text
+       x="606.48999"
+       y="550.13"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="96.699997"
+       lengthAdjust="spacingAndGlyphs"
+       id="text286">Plot by Tobias Stalder</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw3MDguNjZ8NTY2LjkzfDAuMDA=)"
+     id="g292"
+     transform="translate(-339.8709,56.973945)">
+    <text
+       x="350.59"
+       y="559.63"
+       style="font-size:8.8px;font-family:Verdana;fill:#04348c"
+       textLength="352.59"
+       lengthAdjust="spacingAndGlyphs"
+       id="text290">Source: https://www.kaggle.com/ahmedkallam/ikea-sa-furniture-web-scraping</text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:39.9999px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';fill:#04348c;fill-opacity:1"
+     x="10.712624"
+     y="32.675674"
+     id="text304"><tspan
+       sodipodi:role="line"
+       id="tspan302"
+       x="10.712624"
+       y="32.675674"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:FuturaPress;-inkscape-font-specification:'FuturaPress, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#04348c;fill-opacity:1">IKEA's Range of Products</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:8.8px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';fill:#04348c;fill-opacity:1"
+     x="10.188361"
+     y="627.4256"
+     id="text1135"><tspan
+       sodipodi:role="line"
+       id="tspan1133"
+       x="10.188361"
+       y="627.4256"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.8px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#04348c;fill-opacity:1">*Prices were transformed from Saudi Riyal on 03.11.2020</tspan></text>
+</svg>
