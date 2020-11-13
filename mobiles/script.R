@@ -53,7 +53,7 @@ rbind(mob_cummulative, land_cummulative) -> cummulative
 
 ggplot()+
   geom_area(data = conts_mob, aes(x = year, y = sum_subs, fill = continent),
-            color = "black", show.legend = FALSE) +
+            color = "black", show.legend = TRUE) +
   scale_fill_viridis_d("", option = "plasma")+ 
   scale_x_continuous(limits = c(1990, 2017), breaks = c(seq(1990, 2017, 2)))+
   xlab("Year")+
@@ -67,7 +67,7 @@ mobs
 
   ggplot()+
     geom_area(data = conts, aes(x = year, y = sum_subs, fill = continent),
-              color = "black", show.legend = FALSE) +
+              color = "black", show.legend = TRUE) +
     scale_fill_viridis_d("", option = "plasma")  +
     scale_x_continuous(limits = c(1990, 2017), breaks = c(seq(1990, 2017, 2)))+
     xlab("Year")+
@@ -106,7 +106,8 @@ ggplot()+
 
   
   overview / mobs / lands + plot_annotation(title = "The Rise of Mobile Phones",
-                                              subtitle = "Global Mobile and Landline Subscriptions\n") + plot_layout(guides = "collect") &
+                                              subtitle = "Global Mobile and Landline Subscriptions\n",
+                                            caption = "Plot by Tobias Stalder | Source: ourworldindata.org") + plot_layout(guides = "collect") &
   theme(legend.position = 'bottom', text = element_text(family = "Bahnschrift", color = "white"),
         plot.title = element_text(size = 20),
         plot.subtitle = element_text(size = 12),
