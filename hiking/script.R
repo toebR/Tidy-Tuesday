@@ -39,7 +39,7 @@ hike_data$gain <- as.numeric(hike_data$gain)
 hike_data$highpoint <- as.numeric(hike_data$highpoint)
 as.numeric(row.names(hike_data))-> hike_data$trackNr
 
-hike_data <- data.frame(hike_data)
+hike_data <- data.frame(hike_data) #convert to dataframe (could also be done anywhere before)
 
 
 
