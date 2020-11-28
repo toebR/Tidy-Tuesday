@@ -43,7 +43,7 @@ hike_data <- data.frame(hike_data)
 
 
 
-#4) Calculate cummulative length, mean(gain), highest point
+#4) Calculate cummulative length, mean(gain)
 hike_data %>%
   group_by(region) %>%
   summarise(sum_length = sum(length_num),
