@@ -134,8 +134,8 @@ country_segs %>%
   
   # annotate the elements
   annotate(geom = "text", label = "Mean", x = .7, y = 240, color = "#B56576", angle = 90)+
-  annotate(geom = "text", label = "Max", x = .7, y = 89, color = "#B56576", angle = 0)+
-  annotate(geom = "text", label = "Min", x = .7, y = 358, color = "#B56576", angle = 0)+
+  annotate(geom = "text", label = "Min", x = .7, y = 89, color = "#B56576", angle = 0)+
+  annotate(geom = "text", label = "Max", x = .7, y = 358, color = "#B56576", angle = 0)+
   annotate(geom = "text", label = "n", x = .7, y = 370.5, color = "#B56576", angle = 0)+
   
   theme_bw()+
