@@ -1,3 +1,8 @@
+#script by Tobias Stalder
+#tobias-stalder.netlify.app
+
+#TidyTuesday on IKEA furniture
+
 #dataanalysis on ikea furniture
 
 library(tidyverse)
