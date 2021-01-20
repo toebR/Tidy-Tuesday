@@ -95,7 +95,7 @@ ggplot(pop_urb) +
   
   #add underlined title
   labs(title = "Urban Population in Kenya",
-       subtitle = "\nPopulation Density of People leaving in Urban Areas",
+       subtitle = "\nPopulation Density of People living in Urban Areas",
        caption = "<br><br>Map by **Tobias Stalder** | tobias-stalder.netlify.app<br>
        Data by **{rkenyacensus}** | github.com/Shelmith-Kariuki/rKenyaCensus<br>
        #TidyTuesday")+
