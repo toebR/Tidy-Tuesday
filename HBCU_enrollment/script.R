@@ -110,6 +110,6 @@ ggplot(dat_gender)+
         plot.caption = element_markdown(hjust = 0, lineheight = 1.5),
         plot.subtitle = element_markdown(size = 14, hjust = -.133),
         plot.title = element_text(size = 16, hjust = -.8)) +
-  ggsave(filename = "test.png", width = 20, height = 29, units = "cm")
+  ggsave(filename = "HBCU_trends_gender.png", width = 20, height = 29, units = "cm")
   
 
