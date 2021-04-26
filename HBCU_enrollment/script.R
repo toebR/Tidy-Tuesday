@@ -81,7 +81,7 @@ ggplot(dat_gender)+
   geom_text(x = stats_females$meanpos -1500, y = 1990, label = "STDEV", angle = 90, size = 2.5, color = "#009688", family = "Segoe UI")+
   
   facet_grid(Year ~ ., scales = "free", switch = "y") +
-  scale_size_continuous(range = c(2, 8), breaks = c(2,4,6,7,8),)+
+  # scale_size_continuous(range = c(2, 8), breaks = c(2,4,6,7,8),)+
   xlab("Enrollments")+
   
   ggtitle("Enrollment Trends at Historically Black Colleges and Universities")+
